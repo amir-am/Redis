@@ -34,3 +34,18 @@ In this dashboard you can see metrics like:
 
 ### OS
 - File Descriptors
+
+In the pictures below, you can see the dashboard visualizations:
+
+![image](https://user-images.githubusercontent.com/43276746/185398333-bf9f3df7-db7d-4320-a1f1-d5d6fe1b6572.png)
+![image](https://user-images.githubusercontent.com/43276746/185398431-d254b2d0-a5d0-40ce-9648-13ab28c038d4.png)
+![image](https://user-images.githubusercontent.com/43276746/185398503-e91d4f27-c8eb-4ca1-9253-0ee7f1490b8d.png)
+![image](https://user-images.githubusercontent.com/43276746/185398568-91fa26b7-e833-4554-b344-884334d870d6.png)
+![image](https://user-images.githubusercontent.com/43276746/185398646-2a9c75d3-6ad8-4d67-81e6-13ad820901c3.png)
+
+Requirements:
+- Grafana: https://grafana.com/grafana/download
+- InfluxDB & Telegraf: https://portal.influxdata.com/downloads/
+
+Remember:
+- At first you need to apply your informations in both of dashoboard and configuration (YOUR-NAME)
