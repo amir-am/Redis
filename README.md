@@ -1,4 +1,4 @@
-# Redis
+# Redis Monitoring
 
 Redis	is an	open source, in-memory	advanced key-value	store	with optional persistence	to disk.	Two	common uses for Redis	are	caching and publish-subscribe queues (Pub/Sub).	When a	user logs into a	web	application, rather than having to query	a	database each time user information	is needed, Redis allows developers to store	user attributes in-memory	enabling much faster data retrieval. For Pub/Sub, Redis	offers primitives to implement	the	publish-subscribe	messaging	model	with no effort.
 
