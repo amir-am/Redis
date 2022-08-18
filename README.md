@@ -50,5 +50,5 @@ Requirements:
 Remember:
 - At first you need to apply your informations in both of dashoboard and configuration (YOUR-NAME, YOUR-PATH)
 - Add this rows to /etc/sudoers
-  - telegraf ALL=(ALL) NOPASSWD: /usr/bin/bash /etc/telegraf/telegraf.d/Redis.sh
+  - telegraf ALL=(ALL) NOPASSWD: /usr/bin/bash YOUR-PATH/Redis.sh
   - telegraf ALL=(ALL) NOPASSWD: /usr/bin/ls -l /proc/*/fd
